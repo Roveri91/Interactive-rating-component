@@ -70,4 +70,4 @@ and use more JS in order to make a interactive website
 ## Author
 
 - GitHub - [Roveri91](https://github.com/Roveri91)
-- Frontend Mentor - [Roveri91](https://www.frontendmentor.io/profile/Roveri91)
+- Frontend Mentor - [@Roveri91](https://www.frontendmentor.io/profile/Roveri91)
